@@ -3,7 +3,7 @@
     <title>MissionMB</title>
     <link href="https://missionmb.com/feed.xml" rel="self" />
     <link href="https://missionmb.com" />
-    <updated>2025-04-25T16:06:09-04:00</updated>
+    <updated>2025-04-25T16:09:41-04:00</updated>
     <author>
         <name>info@missionmb.com</name>
     </author>
@@ -16,14 +16,12 @@
         </author>
         <link href="https://missionmb.com/metal-buildings/"/>
         <id>https://missionmb.com/metal-buildings/</id>
-        <media:content url="https://missionmb.com/media/posts/9/redbuilding.jpg" medium="image" />
             <category term="Metal Buildings"/>
 
         <updated>2025-04-25T11:26:17-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://missionmb.com/media/posts/9/redbuilding.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
@@ -145,18 +143,15 @@
         </author>
         <link href="https://missionmb.com/questions/"/>
         <id>https://missionmb.com/questions/</id>
-        <media:content url="https://missionmb.com/media/posts/7/AGbuilding-tractor.jpg" medium="image" />
 
         <updated>2025-04-25T11:17:19-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://missionmb.com/media/posts/7/AGbuilding-tractor.jpg" alt="" />
                     Where should I start? If you're ready to begin, give us a call or send us an idea of what you’re looking for. Our team will quickly get in touch to discuss your needs and answer any questions. Does it cost more if I need&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://missionmb.com/media/posts/7/AGbuilding-tractor.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Where should I start?<br><br>If you're ready to begin, give us a call or send us an idea of what you’re looking for. Our team will quickly get in touch to discuss your needs and answer any questions.<br><br><br>Does it cost more if I need to move quickly?<br><br>Not at all! Some buildings may even qualify for a discount if you're looking to move fast.<br><br><br>Does your price include installation?<br><br>Yes, delivery and installation are included.<br><br><br>What is the lead time for a steel building?<br><br>Lead times vary depending on the building's size. Delivery typically occurs within 2-4 weeks of the site being ready.<br><br><br>What type of metal is used?<br><br>We offer 29-gauge and 26-gauge steel panels, along with 14-gauge and 12-gauge steel framing.<br><br><br>Do your buildings meet all building code requirements?<br><br>Yes! Our buildings are designed to pass all local requirements and inspections.<br><br><br>What wind certifications do these buildings have?<br><br>Our wind ratings range from 150 MPH to 170 MPH, depending on the size and local building requirements.<br><br><br>Who handles the concrete?<br><br>The customer and their chosen concrete contractor are responsible for the foundation. Concrete plans are included with our blueprints, but you should always check with your local zoning and planning office for specific regulations.<br><br><br>How much is the deposit?<br><br>Deposit payments are usually 20% of the building's subtotal.<br><br><br>Can I revise my building design after I've paid the deposit?<br><br>Yes, you can change your building design at any time. Additional fees may apply if your order has already been scheduled for installation and production has begun.</p>
             ]]>
         </content>
