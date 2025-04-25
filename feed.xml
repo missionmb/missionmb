@@ -3,7 +3,7 @@
     <title>MissionMB</title>
     <link href="https://missionmb.com/feed.xml" rel="self" />
     <link href="https://missionmb.com" />
-    <updated>2025-04-25T15:35:12-04:00</updated>
+    <updated>2025-04-25T16:06:09-04:00</updated>
     <author>
         <name>info@missionmb.com</name>
     </author>
@@ -16,12 +16,14 @@
         </author>
         <link href="https://missionmb.com/metal-buildings/"/>
         <id>https://missionmb.com/metal-buildings/</id>
+        <media:content url="https://missionmb.com/media/posts/9/redbuilding.jpg" medium="image" />
             <category term="Metal Buildings"/>
 
         <updated>2025-04-25T11:26:17-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://missionmb.com/media/posts/9/redbuilding.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
