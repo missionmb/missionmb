@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MissionMB",
+    "description": "",
+    "home_page_url": "https://missionmb.com",
+    "feed_url": "https://missionmb.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "info@missionmb.com"
+    },
+    "items": [
+        {
+            "id": "https://missionmb.com/metal-buildings/",
+            "url": "https://missionmb.com/metal-buildings/",
+            "title": "Metal Buildings",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://missionmb.com/media/posts/9/gallery/4baybuilding.jpg\" data-size=\"1280x831\">\n        <img loading=\"lazy\" src=\"https://missionmb.com/media/posts/9/gallery/4baybuilding-thumbnail.jpg\" height=\"467\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://missionmb.com/media/posts/9/gallery/AGbuilding-tractor.jpg\" data-size=\"600x390\">\n        <img loading=\"lazy\" src=\"https://missionmb.com/media/posts/9/gallery/AGbuilding-tractor-thumbnail.jpg\" height=\"390\" width=\"600\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://missionmb.com/media/posts/9/gallery/barnbuilding.jpg\" data-size=\"1280x831\">\n        <img loading=\"lazy\" src=\"https://missionmb.com/media/posts/9/gallery/barnbuilding-thumbnail.jpg\" height=\"467\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://missionmb.com/media/posts/9/gallery/businessbuilding.jpg\" data-size=\"1217x790\">\n        <img loading=\"lazy\" src=\"https://missionmb.com/media/posts/9/gallery/businessbuilding-thumbnail.jpg\" height=\"467\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://missionmb.com/media/posts/9/gallery/decofloor.jpg\" data-size=\"1024x665\">\n        <img loading=\"lazy\" src=\"https://missionmb.com/media/posts/9/gallery/decofloor-thumbnail.jpg\" height=\"468\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://missionmb.com/media/posts/9/gallery/redbuilding.jpg\" data-size=\"1280x831\">\n        <img loading=\"lazy\" src=\"https://missionmb.com/media/posts/9/gallery/redbuilding-thumbnail.jpg\" height=\"467\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "author": {
+                "name": "info@missionmb.com"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-25T11:26:17-04:00",
+            "date_modified": "2025-04-25T14:14:59-04:00"
+        },
+        {
+            "id": "https://missionmb.com/welcome/",
+            "url": "https://missionmb.com/welcome/",
+            "title": "Welcome",
+            "summary": "Hi, I'm Christian! Welcome to Mission Metal Buildings. I've been able to partner with top installers, and suppliers from around the world. The majority of my work&hellip;",
+            "content_html": "<section id=\"h.6fa9914778f82fab_621\" class=\"yaqOZd\">\n<div class=\"mYVXT\">\n<div class=\"LS81yb VICjCf j5pSsc db35Fc\" tabindex=\"-1\">\n<div class=\"hJDwNd-AhqUyc-qWD73c Ft7HRd-AhqUyc-qWD73c purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc\">\n<div class=\"JNdkSc-SmKAyb LkDMRd\">\n<div class=\"\">\n<div class=\"oKdM2c ZZyype Kzv0Me\">\n<div id=\"h.6fa9914778f82fab_634\" class=\"hJDwNd-AhqUyc-qWD73c Ft7HRd-AhqUyc-qWD73c jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb\">\n<div class=\"jXK9ad-SmKAyb\">\n<div class=\"tyJCtd mGzaTb Depvyb baZpAe\" tabindex=\"0\" role=\"main\">\n<div class=\"CjVfdc\"><span class=\"C9DxTc \">Hi, I'm </span><span class=\"C9DxTc \">Christian</span><span class=\"C9DxTc \">! </span><span class=\"C9DxTc \"> </span><span class=\"C9DxTc \"><br></span><span class=\"C9DxTc \"><br></span><span class=\"C9DxTc \">Welcome to Mission</span><span class=\"C9DxTc \"> </span><span class=\"C9DxTc \">Metal Buildings.</span></div>\n<h2 id=\"h.w5znn9x1g7ye_l\" class=\"zfr3Q JYVBee CDt4Ke \" dir=\"ltr\"></h2>\n<p class=\"zfr3Q CDt4Ke \" dir=\"ltr\"><span class=\"C9DxTc \">I've been able to partner with </span><span class=\"C9DxTc \">top installers, and suppliers </span><span class=\"C9DxTc \">from around the world. </span></p>\n<p class=\"zfr3Q CDt4Ke \" dir=\"ltr\"><span class=\"C9DxTc \">The majority of my work is self-initiated. It is focused in capturing </span><span class=\"C9DxTc \">ideas from </span><span class=\"C9DxTc \">individuals</span><span class=\"C9DxTc \">.</span></p>\n<p class=\"zfr3Q CDt4Ke \" dir=\"ltr\"><span class=\"C9DxTc \"> We focus on capturing </span><span class=\"C9DxTc \">designs </span><span class=\"C9DxTc \">of people</span><span class=\"C9DxTc \">.  </span><span class=\"C9DxTc \">As a long on going project, we shoot </span><span class=\"C9DxTc \">for finding the best building for your needs</span><span class=\"C9DxTc \">. </span><span class=\"C9DxTc \">  </span></p>\n<p class=\"zfr3Q CDt4Ke \" dir=\"ltr\"><span class=\"C9DxTc \">P</span><span class=\"C9DxTc \">lease contact me and we can discuss scheduling you in an upcoming </span><span class=\"C9DxTc \">quote.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section id=\"h.6fa9914778f82fab_641\" class=\"yaqOZd\">\n<div class=\"mYVXT\">\n<div class=\"LS81yb VICjCf j5pSsc db35Fc\" tabindex=\"-1\">\n<div class=\"hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc\">\n<div class=\"JNdkSc-SmKAyb LkDMRd\">\n<div class=\"\">\n<div class=\"oKdM2c ZZyype Kzv0Me\">\n<div id=\"h.6fa9914778f82fab_638\" class=\"hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb\">\n<div class=\"jXK9ad-SmKAyb\">\n<div class=\"tyJCtd mGzaTb Depvyb baZpAe\">\n<div id=\"h.6ocuxctlvobf\" class=\"CobnVe yMxPgf  aP9Z7e\"></div>\n<div class=\"CjVfdc\">\n<div class=\"PPhIP rviiZ\">\n<div class=\"U26fgb mUbCce fKz7Od LRAOtb Znu9nd M9Bg4d\" role=\"presentation\" aria-describedby=\"h.6ocuxctlvobf_l\" aria-label=\"Copy heading link\" aria-disabled=\"false\" data-tooltip=\"Copy heading link\" aria-hidden=\"true\" data-tooltip-position=\"top\" data-tooltip-vertical-offset=\"12\" data-tooltip-horizontal-offset=\"0\">\n<div> </div>\n<div class=\"VTBa7b MbhUzd\"><a class=\"FKF6mc TpQm9d\" href=\"https://www.missionmb.com/contact#h.6ocuxctlvobf\" aria-label=\"Copy heading link\" jsname=\"hiK3ld\" role=\"button\" aria-describedby=\"h.6ocuxctlvobf_l\"></a><a class=\"XqQF9c\" href=\"https://calendar.app.google/632A7S9YZz36k5TW8\" target=\"_blank\" rel=\"noopener\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"><span class=\"C9DxTc \">Send a message to start the process.</span></a></div>\n</div>\n</div>\n</div>\n<h2 id=\"h.6ocuxctlvobf_l\" class=\"zfr3Q JYVBee CDt4Ke \" dir=\"ltr\"></h2>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>",
+            "author": {
+                "name": "info@missionmb.com"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-25T11:18:25-04:00",
+            "date_modified": "2025-04-25T14:13:26-04:00"
+        },
+        {
+            "id": "https://missionmb.com/questions/",
+            "url": "https://missionmb.com/questions/",
+            "title": "Questions",
+            "summary": "Where should I start? If you're ready to begin, give us a call or send us an idea of what you’re looking for.",
+            "content_html": "<p>Where should I start?<br><br>If you're ready to begin, give us a call or send us an idea of what you’re looking for. Our team will quickly get in touch to discuss your needs and answer any questions.<br><br><br>Does it cost more if I need to move quickly?<br><br>Not at all! Some buildings may even qualify for a discount if you're looking to move fast.<br><br><br>Does your price include installation?<br><br>Yes, delivery and installation are included.<br><br><br>What is the lead time for a steel building?<br><br>Lead times vary depending on the building's size. Delivery typically occurs within 2-4 weeks of the site being ready.<br><br><br>What type of metal is used?<br><br>We offer 29-gauge and 26-gauge steel panels, along with 14-gauge and 12-gauge steel framing.<br><br><br>Do your buildings meet all building code requirements?<br><br>Yes! Our buildings are designed to pass all local requirements and inspections.<br><br><br>What wind certifications do these buildings have?<br><br>Our wind ratings range from 150 MPH to 170 MPH, depending on the size and local building requirements.<br><br><br>Who handles the concrete?<br><br>The customer and their chosen concrete contractor are responsible for the foundation. Concrete plans are included with our blueprints, but you should always check with your local zoning and planning office for specific regulations.<br><br><br>How much is the deposit?<br><br>Deposit payments are usually 20% of the building's subtotal.<br><br><br>Can I revise my building design after I've paid the deposit?<br><br>Yes, you can change your building design at any time. Additional fees may apply if your order has already been scheduled for installation and production has begun.</p>",
+            "image": "https://missionmb.com/media/posts/7/AGbuilding-tractor.jpg",
+            "author": {
+                "name": "info@missionmb.com"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-25T11:17:19-04:00",
+            "date_modified": "2025-04-25T11:26:51-04:00"
+        }
+    ]
+}
