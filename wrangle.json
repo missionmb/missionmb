@@ -1,0 +1,14 @@
+{
+  "deploy": {
+    "provider": "github-pages",
+    "repo": "missionmb/missionmb.github.io",
+    "branch": "main",
+    "build_command": "",
+    "output_directory": "",
+    "custom_domain": "",
+    "env": {},
+    "pre_deploy": [],
+    "post_deploy": [],
+    "cache": false
+  }
+}
